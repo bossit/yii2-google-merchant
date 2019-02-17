@@ -1,0 +1,11 @@
+{
+  "name": "bossit/yii2-google-merchant",
+  "description": "Component for create Google Merchant Feed",
+  "keywords": [
+    "yii2"
+  ],
+  "require": {
+    "php": "^7.0",
+    "yiisoft/yii2": "~2.0.0"
+  }
+}
